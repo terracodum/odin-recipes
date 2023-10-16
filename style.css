@@ -1,0 +1,17 @@
+.Cheesecake {
+    width: 60%;
+    height : 60%;
+}
+.Cheesecakes {
+    display: inline-block;
+}
+.ingid {
+    display: inline-block;
+}
+.ing {
+    display: inline-block;
+    padding-bottom: 30px;
+}
+.steps {
+    padding-left: 20px;
+}
